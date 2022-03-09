@@ -1,1 +1,37 @@
 /* Copy and paste your CSS from CodePen into here */
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    text-align: center;
+    color: red;
+  }
+  h2 {
+    font-size: 3rem;
+     text-align: center;   
+  }
+  #tribute-info {
+    text-align:center; 
+  }
+  
+  #
+  'tribute-link' {
+    font-size: 1rcm
+      
+    text-align:center;
+   
+  }
+  #list {
+    text-align:left
+      
+      
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding:15px;
+      
+      px
+      
+  }
